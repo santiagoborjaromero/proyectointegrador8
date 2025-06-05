@@ -1,0 +1,11 @@
+total 44
+drwxr-x--- 1 lisah_user lisah_user 4096 Jun  3 01:33 .
+drwxr-xr-x 1 root       root       4096 Jun  2 21:19 ..
+-rw------- 1 lisah_user lisah_user  532 Jun  3 03:30 .bash_history
+-rw-r--r-- 1 lisah_user lisah_user  220 Mar 31  2024 .bash_logout
+-rw-r--r-- 1 lisah_user lisah_user 3771 Mar 31  2024 .bashrc
+drwx------ 2 lisah_user lisah_user 4096 Jun  2 21:28 .cache
+drwx------ 3 lisah_user lisah_user 4096 Jun  2 22:11 .config
+-rw-r--r-- 1 lisah_user lisah_user  807 Mar 31  2024 .profile
+drwx------ 2 lisah_user lisah_user 4096 Jun  3 03:23 .ssh
+-rw------- 1 lisah_user lisah_user  918 Jun  2 22:30 .viminfo
