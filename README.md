@@ -1,8 +1,21 @@
-usuario: lisah_user
-contraseña: L1s4hUn14nd3
+# Universidad Autónoma de los Andes - Uniandes
+> Proyecto Integrador <br>
+8vo Software <br>
+Mayo - Septiembre 2025  <br><br>
+**Autores:** <br>
+Hugo <br>
+Jaime <br>
+Jorge <br>
 
 
-Esto se hace desd cmd
+
+
+
+![](https://img.shields.io/badge/Docker-4.41.2-blue) 
+![](https://img.shields.io/badge/Python-3.12.bullseye-blue) 
+
+
+Esto se hace desde cmd
 ```
 ssh lisah_user@localhost -p 2223 -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null
 ```
